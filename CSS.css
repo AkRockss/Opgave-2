@@ -1,7 +1,29 @@
-#para1 {
+#h2 {
   text-align: center;
   color: red;
 }
+
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-inline: 40px;
+}
+
+a:hover, a:active {
+background-color:coral;
+text-align:justify;
+
+}
+
+a1:hover, a1:active {
+background-color:coral;
+text-align:justify;
+
+}
+
 
 
 
